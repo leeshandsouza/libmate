@@ -1,0 +1,165 @@
+.nav-link, .navbar-brand{
+    font-family: 'Aref Ruqaa';
+    font-size: 1.5vw;
+}
+
+#logButton a{
+    margin-left:15px;
+    font-family: "Aref Ruqaa";
+}
+#carousel1{
+    margin-top: 70px;
+}
+.about{
+    background-image: url(../images/bg01.jpg);
+} 
+
+#about_header p{
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Adamina';
+    font-size: 1.75vw;
+
+}
+
+#about_header h1{
+    text-align: center;
+    padding-top:30px;  
+    font-size: 5vw;
+    font-family: 'Sofia';
+    text-decoration: underline;
+    
+}
+
+#about_details p{
+    padding-left: 50px;
+    font-family: 'Antic Slab';
+    font-size: 1.5vw;
+    
+}
+
+#about_details img{
+    float:right;
+    padding-right:150px;
+   
+}
+#about_details{
+   padding: 50px;
+}
+
+#books_header{
+    text-align: center;
+    font-family: "Cinzel Decorative";
+    font-size: 5vw;
+    padding:10px;
+    color:white;
+    background-color: rgba(0,0,0,0.75);
+    
+}
+th,td{
+    padding:10px;
+    font-family: "Corben";
+    font-size: 1.05vw;
+}
+.card-img-top{
+    width:100%;
+    height:auto;
+}
+.card-title{
+    text-align: center;
+    font-family: "Coustard";
+    font-size: 2vw;
+}
+#contactus{
+    background-image: url(../images/bg02.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#contactus_details{
+    margin-left:200px;
+    margin-right:200px;
+    background-color:rgba(255,255,255,0.75);
+    padding:50px;
+}
+#contact_header{
+    font-family: "Literata";
+    text-align: center;
+    font-size: 4vw;
+    text-shadow: 2px 2px 5px rgb(139, 32, 32);
+    
+}
+
+#form1{
+    font-family: "Della Respira";
+    font-size: 1.5vw;
+    
+}
+
+li img{
+    width:30px;
+    height:30px;
+}
+
+#copyright_sec{
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+    font-family: "Alegreya SC";
+    text-align: center;
+    font-size: 2vw;
+}
+
+.col h2, .col ul{
+    padding-top:20px;
+    padding-left:20px;
+    font-family: "Belleza";
+  
+}
+.col li{
+    background-color: rgba(160, 160, 160, 0);
+}
+
+footer{
+    background-image:url(../images/fbg02.jpg);
+    opacity:0.9;
+}
+
+.card img{
+    width:100px;
+    height:350px;
+    padding:20px;
+}
+
+.card{
+    margin:30px;
+    
+}
+
+.form-group input:focus{
+background-color: rgb(181, 218, 235);
+}
+.form-group input{
+    font-weight: bold;
+    font-size:1.25vw;
+    color:black;
+    font-family: "Adamina";
+}
+.list-group-item{
+    border:0;
+    
+}
+.list-group-item img{
+    width:50px;
+    height:40px;
+    
+}
+
+#follow h2, #footerCon h2{
+    margin-left:30px;
+    color:white;
+    
+}
+#fun{
+    color:rgb(219, 33, 89);
+}
+

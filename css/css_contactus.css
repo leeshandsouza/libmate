@@ -1,0 +1,65 @@
+.head-container{
+    position:relative;
+    margin-top: 70px;
+}
+
+.head-container img{
+    height: 400px;
+    width:100%;
+    opacity: 0.9;
+    
+}
+
+.head-text{
+    position: absolute;
+    top:100px;
+    left:50px;
+   
+}
+
+.head-text p{
+    font-family: 'Cherry Cream Soda';
+    font-size:5vw;
+    color:honeydew;
+    text-shadow:2px 2px 5px black;
+    
+   
+}
+
+.media-body h5{
+    font-family: "Merienda One";
+    font-size: 3vw;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+#addDetails{
+    font-family: "Aleo";
+    font-size: 1.5vw;
+    padding-top:10px;
+    
+    
+}
+
+#addDetails a:hover{
+    color:red;
+}
+
+#address{
+    background-image:url(../images/bg06.jpg);
+    background-attachment: fixed;
+
+}
+
+.media{
+    padding-top:50px;
+    padding-bottom:50px;
+    margin-left:200px;
+    margin-right: 200px;
+    margin-top:110px;
+    margin-bottom:180px;
+    background-color: rgba(196, 220, 255,0.3);
+}
+.media img{
+    padding-left:0;
+}
+

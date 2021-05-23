@@ -1,0 +1,40 @@
+.about{
+    background-image: url(../images/bg01.jpg);
+    margin-top:70px;
+}
+
+#about_header p{
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Adamina';
+    font-size: 1.75vw;
+
+}
+
+#about_header h1{
+    text-align: center;
+    padding-top:30px;  
+    font-size: 5vw;
+    font-family: 'Sofia';
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    
+}
+
+#about_details p{
+    padding-left: 50px;
+    font-family: 'Antic Slab';
+    font-size: 1.5vw;
+    
+}
+
+#about_details img{
+    float:right;
+    padding-right:150px;
+   
+}
+#about_details{
+   padding: 50px;
+   
+}
+

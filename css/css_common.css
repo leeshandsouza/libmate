@@ -1,0 +1,51 @@
+.nav-link, .navbar-brand{
+    font-family: 'Aref Ruqaa';
+    font-size: 1.5vw;
+}
+
+#logButton a{
+    margin-left:15px;
+    font-family: "Aref Ruqaa";
+}
+
+
+#copyright_sec{
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+    font-family: "Alegreya SC";
+    text-align: center;
+    font-size: 2vw;
+}
+
+.col h2, .col ul{
+    padding-top:20px;
+    padding-left:20px;
+    font-family: "Belleza";
+  
+}
+.col li{
+    background-color: rgba(160, 160, 160, 0);
+}
+
+footer{
+    background-image:url(../images/fbg02.jpg);
+    opacity:0.9;
+}
+
+
+.list-group-item{
+    border:0;
+    
+}
+
+.list-group-item img{
+    width:50px;
+    height:40px;
+    
+    
+}
+#follow h2, #footerCon h2{
+    margin-left:30px;
+    color:white;
+    
+}

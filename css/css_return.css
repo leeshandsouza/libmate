@@ -1,0 +1,19 @@
+#profileimg{
+    width:10%;
+    height:10%;
+    margin-top:10px;
+}
+#userDetail{
+    margin-top:70px;
+}
+
+#userDetail h1{
+
+    font-family: 'Alike';
+}
+
+#userDetail p{
+
+    font-family: 'Asul';
+    font-size: 1.25vw;
+}

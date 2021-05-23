@@ -1,0 +1,49 @@
+body{
+    background-image: url(../images/bg07.jpg);
+    background-attachment:fixed;
+    background-size:cover;
+}
+
+#fun{
+    background-color:rgba(0,0,0,0.7);
+    padding:2%;
+    
+}
+
+#c1,#c2,#c3,#c4{
+    background-image:url(../images/bg01.jpg);
+    font-family: "Cinzel";
+    font-size:1.35vw;
+}
+
+#collapseAdd,#collapseRemove,#collapseUpdate,#collapseDisplay{
+    margin-top:5%;
+    margin-left:10%;
+    margin-right:10%;
+}
+#collapseDisplay{
+    margin-left:0;
+    margin-right:0;
+}
+footer{
+    margin-top:2%;
+}
+.alert{
+    font-family:"Aref Ruqaa";
+    font-size:2vw;
+}
+
+thead{
+    font-size:1.55vw;
+}
+
+.table-responsive
+{
+    margin-top:2%;
+}
+
+#c1 button,#c2 button,#c3 button,#c4 button{
+    margin-top:1.5%;
+    padding:1%;
+    font-size:1.2vw;
+}
